@@ -10,5 +10,6 @@ public class test {
         System.out.println("hot-fix test");
         System.out.println("远程库test");
         System.out.println("本地库test");
+        System.out.println("远程库test1");
     }
 }
